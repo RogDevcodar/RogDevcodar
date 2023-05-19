@@ -6,3 +6,6 @@ Gravando mudanças no repositório
 * uso do comando restore
 * Colocando outra alteração
 * Teste
+* comando git push
+
+Uso do comando restore
